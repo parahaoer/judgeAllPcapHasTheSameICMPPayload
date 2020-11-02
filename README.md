@@ -1,0 +1,3 @@
+1、分别分析32位Linux和64位Linux生成ICMP报文的规律是否相同
+2、检测ICMP报文是否存在pattern并计算pattern（pattern通过Linux系统ping命令行参数-p指定）
+
