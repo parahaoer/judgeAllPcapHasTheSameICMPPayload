@@ -204,10 +204,10 @@
 不存在pattern
 01不存在pattern
 01不存在pattern
-0101不存在pattern
-0101不存在pattern
-010101不存在pattern
-010101不存在pattern
+0101存在pattern， pattern字符串为：01
+0101存在pattern， pattern字符串为：01
+010101存在pattern， pattern字符串为：01
+010101存在pattern， pattern字符串为：01
 55fe925f7dac04000101不存在pattern
 55fe925f7dac04000101不存在pattern
 000000000000000000000000000000000000存在pattern， pattern字符串为：00
@@ -216,14 +216,14 @@
 01不存在pattern
 0102不存在pattern
 0102不存在pattern
-010201不存在pattern
-010201不存在pattern
-01020102不存在pattern
-01020102不存在pattern
-0102010201不存在pattern
-0102010201不存在pattern
-010201020102不存在pattern
-010201020102不存在pattern
+010201存在pattern， pattern字符串为：0102
+010201存在pattern， pattern字符串为：0102
+01020102存在pattern， pattern字符串为：0102
+01020102存在pattern， pattern字符串为：0102
+0102010201存在pattern， pattern字符串为：0102
+0102010201存在pattern， pattern字符串为：0102
+010201020102存在pattern， pattern字符串为：0102
+010201020102存在pattern， pattern字符串为：0102
 55fe925fb2df0400010201020102010201020102存在pattern， pattern字符串为：0102
 55fe925fb2df0400010201020102010201020102存在pattern， pattern字符串为：0102
 000000000000000000000000000000000000存在pattern， pattern字符串为：00
@@ -234,14 +234,14 @@
 0102不存在pattern
 010203不存在pattern
 010203不存在pattern
-01020301不存在pattern
-01020301不存在pattern
-0102030102不存在pattern
-0102030102不存在pattern
-010203010203不存在pattern
-010203010203不存在pattern
-01020301020301不存在pattern
-01020301020301不存在pattern
+01020301存在pattern， pattern字符串为：010203
+01020301存在pattern， pattern字符串为：010203
+0102030102存在pattern， pattern字符串为：010203
+0102030102存在pattern， pattern字符串为：010203
+010203010203存在pattern， pattern字符串为：010203
+010203010203存在pattern， pattern字符串为：010203
+01020301020301存在pattern， pattern字符串为：010203
+01020301020301存在pattern， pattern字符串为：010203
 55fe925f37130500不存在pattern
 55fe925f37130500不存在pattern
 55fe925f1819050003不存在pattern
@@ -258,12 +258,12 @@
 010203不存在pattern
 01020304不存在pattern
 01020304不存在pattern
-0102030401不存在pattern
-0102030401不存在pattern
-010203040102不存在pattern
-010203040102不存在pattern
-01020304010203不存在pattern
-01020304010203不存在pattern
+0102030401存在pattern， pattern字符串为：01020304
+0102030401存在pattern， pattern字符串为：01020304
+010203040102存在pattern， pattern字符串为：01020304
+010203040102存在pattern， pattern字符串为：01020304
+01020304010203存在pattern， pattern字符串为：01020304
+01020304010203存在pattern， pattern字符串为：01020304
 55fe925f75590500不存在pattern
 55fe925f75590500不存在pattern
 55fe925fe45d050001不存在pattern
@@ -288,10 +288,10 @@
 01020304不存在pattern
 0102030405不存在pattern
 0102030405不存在pattern
-010203040501不存在pattern
-010203040501不存在pattern
-01020304050102不存在pattern
-01020304050102不存在pattern
+010203040501存在pattern， pattern字符串为：0102030405
+010203040501存在pattern， pattern字符串为：0102030405
+01020304050102存在pattern， pattern字符串为：0102030405
+01020304050102存在pattern， pattern字符串为：0102030405
 55fe925f4cae0500不存在pattern
 55fe925f4cae0500不存在pattern
 55fe925f3cb4050004不存在pattern
@@ -324,8 +324,8 @@
 0102030405不存在pattern
 010203040506不存在pattern
 010203040506不存在pattern
-01020304050601不存在pattern
-01020304050601不存在pattern
+01020304050601存在pattern， pattern字符串为：010203040506
+01020304050601存在pattern， pattern字符串为：010203040506
 55fe925f99240600不存在pattern
 55fe925f99240600不存在pattern
 55fe925f802d060003不存在pattern
